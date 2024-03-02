@@ -1,1 +1,1 @@
-# sem-6
+# sem-6-AI_LAB
